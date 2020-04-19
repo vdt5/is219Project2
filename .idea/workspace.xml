@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5e6b162-a98d-4725-8a7f-c5aea893e2a1" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="f5e6b162-a98d-4725-8a7f-c5aea893e2a1" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +56,7 @@
       <updated>1587317999856</updated>
       <workItem from="1587318011134" duration="629000" />
       <workItem from="1587320153210" duration="1718000" />
+      <workItem from="1587322285051" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1587321840436</created>
@@ -66,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587321840436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1587322354293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587322354293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +88,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -98,10 +105,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587321894406" />
-    <state x="554" y="261" key="Github.ShareDialog" timestamp="1587321359845">
+    <state x="554" y="261" key="Github.ShareDialog" timestamp="1587322385548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="554" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1587321359845" />
+    <state x="554" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1587322385548" />
     <state width="1345" height="163" key="GridCell.Tab.0.bottom" timestamp="1587322009050">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -126,9 +133,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1587322001581" />
-    <state x="471" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587321946707">
+    <state x="471" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587322376114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="471" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587321946707" />
+    <state x="471" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587322376114" />
   </component>
 </project>
